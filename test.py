@@ -1,1 +1,3 @@
-print("python is working")
+while True:
+    print("python is working")
+
